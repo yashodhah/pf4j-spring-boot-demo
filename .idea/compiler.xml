@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="pf4j-spring-demo-plugin2" />
+        <module name="pf4j-spring-demo-api" />
+        <module name="pf4j-spring-demo-app" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="pf4j-spring-demo-plugin1" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
